@@ -1,1 +1,1 @@
-# .github
+# Calypso Inc.
